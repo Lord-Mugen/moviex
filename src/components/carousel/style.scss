@@ -27,12 +27,14 @@
             opacity: 0.8;
         }
     }
-    .carouselLeftNav {
-        left: 30px;
-    }
-    .carouselRighttNav {
-        right: 30px;
-    }
+   .carouselLeftNav {
+    left: 30px;
+    color: #fff;
+  }
+  .carouselRighttNav {
+    right: 30px;
+    color: #fff;
+  }
     .loadingSkeleton {
         display: flex;
         gap: 10px;
